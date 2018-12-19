@@ -9,7 +9,7 @@ pwd = getpass.getpass('Insert your password:')
 #pwd = raw_input("Password: ")
 
 
-#String Conversion for futire logic 
+#String Conversion for future logic 
 pwds = str(pwd)
 
 
