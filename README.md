@@ -1,6 +1,6 @@
 # OneHASH
 Simple Password Hashing Algorithm for Python
-OneHASH is a somple Password hashing algo for use in ptyhon. 
+
 
 
 Required Libraries 
